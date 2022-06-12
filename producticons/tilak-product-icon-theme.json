@@ -1,0 +1,15 @@
+{
+	"fonts": [
+		{
+			"id": "alien-font",
+			"src": [
+				{
+					"path": "./UbuntuMono.woff",
+					"format": "woff"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		}
+	]
+}

@@ -20,7 +20,7 @@
         "productIconThemes": [{
             "id": "tilak",
             "labels": "a crazy dark wordpress theme",
-            "path": "./Tilak-color-theme.json"
+            "path": "./producticons/tilak-product-icon-theme.json"
         }]
     }
 }
