@@ -4,7 +4,8 @@
     "displayName": "Tilak Dark Theme",
     "description": "a dark theme by deepesh dhakal",
     "repository": "https://github.com/deepyes02/deepyes02dark",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "icon": "assets/logo.png",
     "engines": {
         "vscode": "^1.68.0"
     },
