@@ -16,6 +16,11 @@
             "label": "Tilak",
             "uiTheme": "vs-dark",
             "path": "./themes/Tilak-color-theme.json"
+        }],
+        "productIconThemes": [{
+            "id": "tilak",
+            "labels": "a crazy dark wordpress theme",
+            "path": "./Tilak-color-theme.json"
         }]
     }
 }
