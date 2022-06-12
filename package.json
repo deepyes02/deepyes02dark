@@ -1,0 +1,21 @@
+{
+    "name": "deepyes02dark",
+    "displayName": "deepyes02dark",
+    "description": "a dark theme by deepesh",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tilak",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tilak-color-theme.json"
+            }
+        ]
+    }
+}
